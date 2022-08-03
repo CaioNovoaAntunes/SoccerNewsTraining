@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Soccer News</string>
+    <string name="title_home">News</string>
+    <string name="title_dashboard">Favorites</string>
+    <string name="txt_open_link">Open link</string>
+    <string name="ferrovi_ria_vence_o_palmeiras">Ferroviária vence o Palmeiras</string>
+    <string name="news_image">News</string>
+    <string name="favorite_icon">favorite_icon</string>
+    <string name="share_icon_image">Share_Icon_Image</string>
+</resources>
